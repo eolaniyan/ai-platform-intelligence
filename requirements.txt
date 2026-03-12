@@ -1,5 +1,8 @@
 pandas
-networkx
 matplotlib
-openai
+streamlit
 python-dotenv
+openai
+networkx
+pyvis
+pillow
